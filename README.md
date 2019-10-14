@@ -70,7 +70,9 @@ BONUS:
 
 ----------
 
-11) Make Views for Bros and Scooters:
+11) Destroy all instances dependent on bro when a bro is destroyed.
+
+12) Make Views for Bros and Scooters:
     
     a) INDEX PAGE: <br/>
 		1. Displays all Bros (or Scooters). <br/>
@@ -101,3 +103,5 @@ BONUS:
         
        BONUS BONUS: <br/>
         2. Form to add an existing OR new scooter related to this bro.
+	
+See https://github.com/LimitToInfinity/scooterBros for finished code! (But not until you've struggled through on your own!!)
