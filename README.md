@@ -1,5 +1,5 @@
-Objectives to Accomplish!
-    (check them off as you go :)
+Objectives to Accomplish! <br/>
+	(check them off as you go :)
 
 1) Create a Bro Class.
 
