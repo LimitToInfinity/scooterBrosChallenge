@@ -1,4 +1,4 @@
-<!-- Objectives to Accomplish!
+Objectives to Accomplish!
     (check them off as you go :)
 
 1) Create a Bro Class.
@@ -85,4 +85,4 @@ BONUS:
     d) Edit page (for Bro only):
         1. Form to change a bros name.
         BONUS BONUS:
-        2. Form to add an existing OR new scooter related to this bro. -->
+        2. Form to add an existing OR new scooter related to this bro.
